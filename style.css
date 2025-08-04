@@ -1,0 +1,37 @@
+body{
+    background-color:#F3E5D8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+  padding: 20px;
+   
+}
+.container {
+    position:fixed;
+    margin: auto;
+    inset: 0;
+    height: 1771px;
+    width: 735px;
+    background-color: white;
+padding: 30px;
+    border-radius: 16px;
+    
+}
+img{
+    width: 100%;
+    
+}
+.preparation-time{
+    background-color:#FFF7FC;
+    font-size: 28px;
+    padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}-
+ table {
+  width: 100%;
+  margin-top: 10px;
+}  
+
+table td {
+  padding: 8px 0;
+}
